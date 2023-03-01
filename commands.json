@@ -9,6 +9,11 @@
 		"clear A2",
 		"clear B2",
 		"clear D2",
-		"flag C2"
+		"flag C2",
+		"clear C1",
+		"clear D1",
+		"clear E1",
+		"clear E2",
+		"flag F2"
 	]
 }
